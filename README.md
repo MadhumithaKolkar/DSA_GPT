@@ -1,6 +1,6 @@
 
 # DSA-GPT: Your AI Study Buddy for Cracking Coding Interviews (RAG-powered Q&A with OpenAI)
-# Created by : Madhumitha Kolkar , 2024
+Created by : Madhumitha Kolkar , 2024
 
 ![](dsa-gpt.jpg)
 
